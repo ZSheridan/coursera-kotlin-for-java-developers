@@ -8,7 +8,6 @@ target/
 !**/src/test/**
 /src/test/kotlin
 /build/www/**
-application.properties
 
 ######################
 # Node
